@@ -29,9 +29,9 @@
     <td width="60%">
       <h3>About Me</h3>
       <p>
-        I am a <b>Python Engineer</b> and <b>Data Scientist</b> focused on bridging
+        I am a <b>Python-Developer&Engineer</b> , <b>Data Scientist</b> and <b>AI/ML</b> focused on bridging
         the gap between research and production. I design machine learning systems
-        that are testable, maintainable, and deployment-ready.
+        that are testable, maintainable, and deployment-ready.Developing a <b>AI/ML</b> based Projects.
       </p>
       <ul>
         <li><b>Current work:</b> Converting research models into production APIs</li>
