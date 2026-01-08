@@ -1,11 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,000000,0d1117&height=250&section=header&text=Sameer%20Nadeem&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Python-Developer%20%7C%20Building%20Production-Grade%20Systems&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,000000,0d1117&height=250&section=header&text=Sameer%20Nadeem&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Building%20Production-Grade%20Systems&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3382F7&center=true&vCenter=true&width=650&lines=AI/ML+%7C+Python-Developer+%7C+Data+Scientist;NLP+%26+Graph+ML+Systems;Strict+Typing.+Atomic+Commits.+100%25+Coverage."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3382F7&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+%7C+PropTech+%26+NLP+Specialist;Building+Enterprise+Valuation+Models;Strict+Typing.+Atomic+Commits.+100%25+Coverage."/>
 </div>
-
 
 <br/>
 
@@ -28,16 +27,16 @@
 <table width="100%">
   <tr>
     <td width="60%">
-      <h3>About Me</h3>
+      <h3>👨‍💻 About Me</h3>
       <p>
-        I am a <b>Python-Developer&Engineer</b> , <b>Data Scientist</b> and <b>AI/ML</b> focused on bridging
-        the gap between research and production. I design machine learning systems
-        that are testable, maintainable, and deployment-ready.Developing a <b>AI/ML</b> based Projects.
+        I am a <b>Software Engineer</b> & <b>Data Scientist</b> focused on bridging
+        the gap between research and production. I design <b>Enterprise AI Systems</b> 
+        that are testable, maintainable, and deployment-ready.
       </p>
       <ul>
-        <li><b>Current work:</b> Converting research models into production APIs</li>
-        <li><b>Learning:</b> Advanced Git workflows (rebase, squash) & design patterns</li>
-        <li><b>Philosophy:</b> Strict typing, atomic commits, full test coverage</li>
+        <li><b>🔭 Current Focus:</b> Developing Automated Valuation Models (AVM) & NLP Security Engines.</li>
+        <li><b>🌱 Learning:</b> Advanced Gradient Boosting, MLOps Pipelines & System Design.</li>
+        <li><b>⚡ Philosophy:</b> Readable Code > Clever Code. Production Always.</li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -48,41 +47,36 @@
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=900&color=36BCF7&center=true&vCenter=true&width=750&lines=Designing+ML+Systems+for+Real-World+Constraints;Readable+Code+Over+Clever+Code;Open+Source+First.+Production+Always."/>
-</div>
-
----
-
-### Technical Stack
+### 🛠️ Technical Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode,docker,bash&theme=dark"/><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,pandas,numpy,opencv&theme=dark"/><br/>
+  <img src="https://skillicons.dev/icons?i=scikitlearn,pytorch,tensorflow,pandas,numpy,opencv&theme=dark"/><br/>
   <img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,mysql,regex,selenium&theme=dark"/>
 </div>
 
 ---
 
-### Flagship Projects
+### 🏆 Flagship Products
 
-| Project | Description | Stack |
-|-------|------------|-------|
-| **SpamGuard AI** | SMS phishing detection system using probabilistic ML techniques | NLP, Scikit-Learn, API |
-| **Retail Analytics** | Business intelligence engine identifying profit leakages | Pandas, EDA, Visualization |
-| **Social Graph Engine** | Graph-based recommendation system using interaction topology | NetworkX, Graph Theory |
-
----
-
-### Open Source Focus
-
-- Contributor mindset with emphasis on readability and maintainability
-- Comfortable with PR reviews, issue triaging, and technical discussions
-- Actively preparing for **Google Summer of Code (GSoC 2026)**
+| Project | Domain | Description | Tech Stack |
+|:---|:---|:---|:---|
+| **[PropVal-AI Engine](https://github.com/Abu-Sameer-66/PropVal-AI-Real-Estate-Engine)** | 🏠 PropTech | Enterprise-grade Real Estate Automated Valuation Model (AVM) using Gradient Boosting. | `XGBoost` `Scikit-Learn` `Pandas` |
+| **[SpamGuard Security](https://github.com/Abu-Sameer-66/SpamGuard-AI-Threat-Detection)** | 🛡️ Cybersecurity | NLP-based Phishing & SMS Threat Detection System preventing fraud in real-time. | `NLP` `Naive Bayes` `TF-IDF` |
+| **[Retail BI Engine](https://github.com/Abu-Sameer-66/Retail-Sales-Performance-Analysis)** | 📊 Business Intel | Strategic Profit Analysis engine identifying leakages & operational inefficiencies. | `Seaborn` `Financial Modeling` |
+| **[Voice Command Bot](https://github.com/Abu-Sameer-66/AI-Voice-Assistant-Python)** | 🤖 Automation | Desktop automation assistant for task execution and OS control. | `SpeechRecognition` `OS-Sys` |
 
 ---
 
-### Engineering Metrics
+### 🎯 Open Source Focus
+
+- **Contributor Mindset:** Emphasis on clean architecture and documentation.
+- **Review Ready:** Comfortable with PR reviews, issue triaging, and CI/CD workflows.
+- **Goal:** Actively preparing for **Google Summer of Code (GSoC 2026)**.
+
+---
+
+### 📈 Engineering Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abu-Sameer-66&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
