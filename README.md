@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,000000,0d1117&height=250&section=header&text=Sameer%20Nadeem&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Building%20Production-Grade%20Systems&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,000000,0d1117&height=250&section=header&text=Sameer%20Nadeem&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Data%20Scientist%20%7C%20Python%20Developer%20%7C%20Building%20Production-Grade%20Systems&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
@@ -29,7 +29,7 @@
     <td width="60%">
       <h3>👨‍💻 About Me</h3>
       <p>
-        I am a <b>Software Engineer</b> & <b>Data Scientist</b> focused on bridging
+        I am a <b>AI/ML Engineer</b> & <b>Data Scientist</b> focused on bridging
         the gap between research and production. I design <b>Enterprise AI Systems</b> 
         that are testable, maintainable, and deployment-ready.
       </p>
