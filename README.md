@@ -80,41 +80,36 @@
 ### 📈 Engineering Metrics
 
 <div align="center">
-  <h3>🚀 Engineering Command Center</h3>
+  <h3>🚀 Engineering Telemetry</h3>
 </div>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Abu-Sameer-66">
-        <img src="https://github-readme-stats.vercel.app/api?username=Abu-Sameer-66&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Sameer's Github Stats" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Abu-Sameer-66">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abu-Sameer-66&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" alt="Sameer's Top Languages" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <a href="https://github.com/Abu-Sameer-66">
-        <img src="https://streak-stats.demolab.com?user=Abu-Sameer-66&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&bg_color=0d1117" alt="Sameer's Commit Streak" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Abu-Sameer-66&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" width="90%" alt="Github Trophies" />
+  <a href="https://github.com/Abu-Sameer-66">
+    <img src="https://github-readme-stats.vercel.app/api?username=Abu-Sameer-66&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117" height="160" alt="stats graph" />
+  </a>
+  <a href="https://github.com/Abu-Sameer-66">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abu-Sameer-66&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=6" height="160" alt="languages graph" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abu-Sameer-66&style=for-the-badge&color=22d3ee&label=PROFILE+VIEWS"/>
+  <a href="https://github.com/Abu-Sameer-66">
+    <img src="https://streak-stats.demolab.com?user=Abu-Sameer-66&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&bg_color=0d1117" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Abu-Sameer-66&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" alt="trophies" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abu-Sameer-66&style=for-the-badge&color=db2777&label=PROFILE+VIEWS"/>
 </div>
