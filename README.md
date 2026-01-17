@@ -34,8 +34,8 @@
         that are testable, maintainable, and deployment-ready.
       </p>
       <ul>
-        <li><b>🔭 Current Focus:</b> Developing Automated Valuation Models (AVM) & NLP Security Engines.</li>
-        <li><b>🌱 Learning:</b> Advanced Gradient Boosting, MLOps Pipelines & System Design.</li>
+        <li><b>🔭 Current Focus:</b> Building Predictive Analytics Engines, AVMs & NLP Security Systems.</li>
+        <li><b>🌱 Learning:</b> MLOps Pipelines, Advanced Ensemble Methods & System Design.</li>
         <li><b>⚡ Philosophy:</b> Readable Code > Clever Code. Production Always.</li>
       </ul>
     </td>
@@ -61,18 +61,18 @@
 
 | Project | Domain | Description | Tech Stack |
 |:---|:---|:---|:---|
-| **[PropVal-AI Engine](https://github.com/Abu-Sameer-66/PropVal-AI-Real-Estate-Engine)** | 🏠 PropTech | Enterprise-grade Real Estate Automated Valuation Model (AVM) using Gradient Boosting. | XGBoost Scikit-Learn Pandas |
-| **[SpamGuard Security](https://github.com/Abu-Sameer-66/SpamGuard-AI-Threat-Detection)** | 🛡️ Cybersecurity | NLP-based Phishing & SMS Threat Detection System preventing fraud in real-time. | NLP Naive Bayes TF-IDF |
-| **[Retail BI Engine](https://github.com/Abu-Sameer-66/Retail-Sales-Performance-Analysis)** | 📊 Business Intel | Strategic Profit Analysis engine identifying leakages & operational inefficiencies. | Seaborn Financial Modeling |
-| **[Voice Command Bot](https://github.com/Abu-Sameer-66/AI-Voice-Assistant-Python)** | 🤖 Automation | Desktop automation assistant for task execution and OS control. | SpeechRecognition OS-Sys |
+| **[CogniPath Analytics](https://github.com/Abu-Sameer-66/CogniPath-Analytics-Engine)** | 🎓 EdTech AI | Advanced predictive engine forecasting student burnout using behavioral telemetry & Gradient Boosting. | `Ensemble Learning` `OOP` `Pipelines` |
+| **[PropVal-AI Engine](https://github.com/Abu-Sameer-66/PropVal-AI-Real-Estate-Engine)** | 🏠 PropTech | Enterprise-grade Real Estate Automated Valuation Model (AVM) using Gradient Boosting. | `XGBoost` `Scikit-Learn` `Pandas` |
+| **[SpamGuard Security](https://github.com/Abu-Sameer-66/SpamGuard-AI-Threat-Detection)** | 🛡️ Cybersecurity | NLP-based Phishing & SMS Threat Detection System preventing fraud in real-time. | `NLP` `Naive Bayes` `TF-IDF` |
+| **[Retail BI Engine](https://github.com/Abu-Sameer-66/Retail-Sales-Performance-Analysis)** | 📊 Business Intel | Strategic Profit Analysis engine identifying leakages & operational inefficiencies. | `Seaborn` `Financial Modeling` |
 
 ---
 
 ### 🎯 Open Source Focus
 
-- *Contributor Mindset:* Emphasis on clean architecture and documentation.
-- *Review Ready:* Comfortable with PR reviews, issue triaging, and CI/CD workflows.
-- *Goal:* Actively preparing for *Google Summer of Code (GSoC 2026)*.
+- **Contributor Mindset:** Emphasis on clean architecture and documentation.
+- **Review Ready:** Comfortable with PR reviews, issue triaging, and CI/CD workflows.
+- **Goal:** Actively preparing for **Google Summer of Code (GSoC 2026)**.
 
 ---
 
