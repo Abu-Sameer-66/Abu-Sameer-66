@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BBC1B9&center=true&vCenter=true&width=1000&lines=AI%2FML+Engineer+%7C+Data+Scientist+%7C+EDA+Expert+%7C+Python+developer;Building+Enterprise+Valuation+Models;Strict+Typing.+Atomic+Commits.+100%25+Coverage."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BBC1B9&center=true&vCenter=true&width=1000&lines=AI%2FML+Engineer+%7C+Data+Scientist+%7C+EDA+Expert+%7C+Python+developer;Architecting+Cognitive+Analytics+Engines;Strict+Typing.+Atomic+Commits.+100%25+Coverage."/>
 </div>
 
 <br/>
@@ -27,16 +27,15 @@
 <table width="100%">
   <tr>
     <td width="60%">
-      <h3>👨‍💻 About Me</h3>
+      <h3>👨‍💻 Engineering Philosophy</h3>
       <p>
-        I am a <b>AI/ML Engineer</b> & <b>Data Scientist</b> focused on bridging
-        the gap between research and production. I design <b>Enterprise AI Systems</b> 
-        that are testable, maintainable, and deployment-ready.
+        I am a <b>Data Scientist</b> & <b>AI Engineer</b> obsessed with <b>System Architecture</b>. 
+        I don't just train models; I build <b>scalable, testable, and modular AI engines</b> that solve real-world problems.
       </p>
       <ul>
-        <li><b>🔭 Current Focus:</b> Building Predictive Analytics Engines, AVMs & NLP Security Systems.</li>
-        <li><b>🌱 Learning:</b> MLOps Pipelines, Advanced Ensemble Methods & System Design.</li>
-        <li><b>⚡ Philosophy:</b> Readable Code > Clever Code. Production Always.</li>
+        <li><b>🔭 Latest Innovation:</b> Built <b>CogniPath</b>, an OOP-based Predictive Analytics Engine for Education.</li>
+        <li><b>🌱 Deep Diving:</b> Advanced Ensemble Methods (Gradient Boosting), Pipeline Automation & MLOps.</li>
+        <li><b>⚡ Career Goal:</b> Actively preparing for <b>Google Summer of Code (GSoC 2026)</b>.</li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -47,39 +46,39 @@
 
 ---
 
-### 🛠️ Technical Stack
+### 🛠️ Production Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode,docker,bash&theme=dark"/><br/>
-  <img src="https://skillicons.dev/icons?i=scikitlearn,pytorch,tensorflow,pandas,numpy,opencv&theme=dark"/><br/>
+  <img src="https://skillicons.dev/icons?i=scikitlearn,pytorch,tensorflow,pandas,numpy,seaborn&theme=dark"/><br/>
   <img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,mysql,regex,selenium&theme=dark"/>
 </div>
 
 ---
 
-### 🏆 Flagship Products
+### 🏆 Flagship Engineering Projects
 
-| Project | Domain | Description | Tech Stack |
+| Project | Domain | System Description | Core Tech |
 |:---|:---|:---|:---|
-| **[CogniPath Analytics](https://github.com/Abu-Sameer-66/CogniPath-Analytics-Engine)** | 🎓 EdTech AI | Advanced predictive engine forecasting student burnout using behavioral telemetry & Gradient Boosting. | `Ensemble Learning` `OOP` `Pipelines` |
-| **[PropVal-AI Engine](https://github.com/Abu-Sameer-66/PropVal-AI-Real-Estate-Engine)** | 🏠 PropTech | Enterprise-grade Real Estate Automated Valuation Model (AVM) using Gradient Boosting. | `XGBoost` `Scikit-Learn` `Pandas` |
-| **[SpamGuard Security](https://github.com/Abu-Sameer-66/SpamGuard-AI-Threat-Detection)** | 🛡️ Cybersecurity | NLP-based Phishing & SMS Threat Detection System preventing fraud in real-time. | `NLP` `Naive Bayes` `TF-IDF` |
-| **[Retail BI Engine](https://github.com/Abu-Sameer-66/Retail-Sales-Performance-Analysis)** | 📊 Business Intel | Strategic Profit Analysis engine identifying leakages & operational inefficiencies. | `Seaborn` `Financial Modeling` |
+| **[CogniPath Analytics](https://github.com/Abu-Sameer-66/CogniPath-Analytics-Engine)** <br> ![New](https://img.shields.io/badge/NEW-Launch-success) | 🧠 EdTech AI | **Predictive Intelligence Engine** forecasting student burnout using behavioral telemetry & Gradient Boosting. | `OOP` `Pipelines` `XGBoost` |
+| **[PropVal-AI Engine](https://github.com/Abu-Sameer-66/PropVal-AI-Real-Estate-Engine)** | 🏠 PropTech | Enterprise-grade Real Estate Automated Valuation Model (AVM) designed for high-variance markets. | `Gradient Boosting` `Pandas` |
+| **[SpamGuard Security](https://github.com/Abu-Sameer-66/SpamGuard-AI-Threat-Detection)** | 🛡️ Cybersecurity | NLP-based Phishing & SMS Threat Detection System preventing digital fraud in real-time. | `NLP` `Naive Bayes` `TF-IDF` |
+| **[Retail BI Engine](https://github.com/Abu-Sameer-66/Retail-Sales-Performance-Analysis)** | 📊 Business Intel | Strategic Profit Analysis engine identifying operational leakages & margin inefficiencies. | `Seaborn` `Financial Modeling` |
 
 ---
 
-### 🎯 Open Source Focus
+### 🎯 Open Source & Contribution Focus
 
-- **Contributor Mindset:** Emphasis on clean architecture and documentation.
-- **Review Ready:** Comfortable with PR reviews, issue triaging, and CI/CD workflows.
-- **Goal:** Actively preparing for **Google Summer of Code (GSoC 2026)**.
+- **Architecture First:** Emphasis on clean `OOP` design and reusable modules.
+- **Review Ready:** Comfortable with PR reviews, issue triaging, and writing detailed documentation.
+- **Current Mission:** Contributing to open-source data science libraries to prepare for **GSoC**.
 
 ---
 
 ### 📈 Engineering Metrics
 
 <div align="center">
-  <h3>🚀 Engineering Telemetry</h3>
+  <h3>🚀 Developer Telemetry</h3>
 </div>
 
 <div align="center">
