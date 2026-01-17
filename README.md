@@ -60,7 +60,7 @@
 
 | Project | Domain | System Description | Core Tech |
 |:---|:---|:---|:---|
-| **[CogniPath Analytics](https://github.com/Abu-Sameer-66/CogniPath-Analytics-Engine)** <br> ![New](https://img.shields.io/badge/NEW-Launch-success) | 🧠 EdTech AI | **Predictive Intelligence Engine** forecasting student burnout using behavioral telemetry & Gradient Boosting. | `OOP` `Pipelines` `XGBoost` |
+| **[CogniPath Analytics](https://github.com/Abu-Sameer-66/CogniPath-Analytics-Engine)** <br>| 🧠 EdTech AI | **Predictive Intelligence Engine** forecasting student burnout using behavioral telemetry & Gradient Boosting. | `OOP` `Pipelines` `XGBoost` |
 | **[PropVal-AI Engine](https://github.com/Abu-Sameer-66/PropVal-AI-Real-Estate-Engine)** | 🏠 PropTech | Enterprise-grade Real Estate Automated Valuation Model (AVM) designed for high-variance markets. | `Gradient Boosting` `Pandas` |
 | **[SpamGuard Security](https://github.com/Abu-Sameer-66/SpamGuard-AI-Threat-Detection)** | 🛡️ Cybersecurity | NLP-based Phishing & SMS Threat Detection System preventing digital fraud in real-time. | `NLP` `Naive Bayes` `TF-IDF` |
 | **[Retail BI Engine](https://github.com/Abu-Sameer-66/Retail-Sales-Performance-Analysis)** | 📊 Business Intel | Strategic Profit Analysis engine identifying operational leakages & margin inefficiencies. | `Seaborn` `Financial Modeling` |
