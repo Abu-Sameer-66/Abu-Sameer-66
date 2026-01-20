@@ -29,7 +29,7 @@
     <td width="60%">
       <h3>👨‍💻 Engineering Philosophy</h3>
       <p>
-        I am a <b>Data Scientist</b> & <b>AI Engineer</b> obsessed with <b>System Architecture</b>. 
+        I am a <b>Data Scientist</b> & <b>AI Engineer</b> & <b>Python & EDA Expert<b/> & obsessed with <b>System Architecture</b>. 
         I don't just train models; I build <b>scalable, testable, and modular AI engines</b> that solve real-world problems.
       </p>
       <ul>
