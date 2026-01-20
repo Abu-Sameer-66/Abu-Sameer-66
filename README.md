@@ -30,7 +30,7 @@
       <h3>👨‍💻 Engineering Philosophy</h3>
       <p>
         I am a <b>Data Scientist</b>,<b>AI Engineer</b>,<b>Python & EDA Expert<b/> & <b>SQL Expert<b/> obsessed with <b>System Architecture</b>. 
-        I don't just train models; I build <b>scalable, testable, and modular AI engines</b> that solve real-world problems.
+        I don't just train models; Building a Databases and focus on deep going in Model Training; I build <b>scalable, testable, and modular AI engines</b> that solve real-world problems.
       </p>
       <ul>
         <li><b>🔭 Latest Innovation:</b> Built <b>CogniPath</b>, an OOP-based Predictive Analytics Engine for Education.</li>
