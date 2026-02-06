@@ -9,7 +9,6 @@
   />
 </div>
 
-
 <br/>
 <div align="center">
   <a href="https://www.linkedin.com/in/sameer-nadeem-66339a357/" target="_blank">
