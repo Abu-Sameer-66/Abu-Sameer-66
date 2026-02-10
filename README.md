@@ -1,11 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&ColorList=896A15,6E8915,98351F&height=250&section=header&text=Sameer%20Nadeem&fontSize=70&fontColor=BBC1B9&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Data%20Scientist%20%7C%20Python%20%7C%20SQL%20Developer%20%7C%20Building%20Systems&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&ColorList=896A15,6E8915,98351F&height=250&section=header&text=Sameer%20Nadeem&fontSize=70&fontColor=BBC1B9&animation=fadeIn&fontAlignY=35&desc=Scientific%20ML%20%7C%20DeepChem%20Contributor%20%7C%20LLM%20Optimization%20%7C%20Building%20Systems&descAlignY=60&descAlign=50" width="100%"/>
 </div>
-
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BBC1B9&center=true&vCenter=true&width=1000&lines=AI%2FML+Engineer+%7C+Data+Scientist+%7C+Python+Developer;EDA+Expert+%7C+SQL+Expert+%26+DBMS;Architecting+Cognitive+Analytics+Engines;Strict+Typing.+Atomic+Commits.+100%25+Coverage."
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BBC1B9&center=true&vCenter=true&width=1000&lines=Fine-tuning+LLMs+(Mistral%2FLlama)+on+Consumer+Hardware;Solving+Molecular+Property+Prediction+with+AI;Optimizing+LoRA+Rank+%26+Quantization+(NF4);DeepChem+Contributor+%7C+GSoC+2026+Aspirant."
     alt="Typing SVG"
   />
 </div>
@@ -32,12 +31,12 @@
     <td width="60%">
       <h3>👨‍💻 Engineering Philosophy</h3>
       <p>
-        I am a <b>Data Scientist</b>,<b>AI Engineer</b>,<b>Python & EDA Expert<b/> & <b>SQL Expert<b/> obsessed with <b>System Architecture</b>. 
-        I don't just train models; Building a Databases and focus on deep going in Model Training; I build <b>scalable, testable, and modular AI engines</b> that solve real-world problems.
+        I am a <b>Data Scientist</b> pivoting to <b>Computational Chemistry</b>. I don't just train models; I debug the mathematics behind them. 
+        My recent focus is on breaking the <b>"Memory Wall"</b> in LLMs—making 7B parameter models run efficiently on T4 GPUs for scientific discovery.
       </p>
       <ul>
-        <li><b>🔭 Latest Innovation:</b> Built <b>CogniPath</b>, an OOP-based Predictive Analytics Engine for Education.</li>
-        <li><b>🌱 Deep Diving:</b> Advanced Ensemble Methods (Gradient Boosting), Pipeline Automation & MLOps.</li>
+        <li><b>🔭 Current Focus:</b> Native Integration of <b>Instruction-Tuned LLMs</b> into the <a href="https://github.com/deepchem/deepchem">DeepChem</a> ecosystem.</li>
+        <li><b>🐛 The Struggle:</b> Recently solved <b>NaN Loss spikes</b> in mixed-precision training by engineering custom fp32 upcasting loops.</li>
         <li><b>⚡ Career Goal:</b> Actively preparing for <b>Google Summer of Code (GSoC 2026)</b>.</li>
       </ul>
     </td>
@@ -49,32 +48,35 @@
 
 ---
 
-### 🛠️ Production Tech Stack
+### 🛠️ Scientific & Production Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,docker,bash&theme=dark"/><br/>
-  <img src="https://skillicons.dev/icons?i=scikitlearn,pytorch,tensorflow,pandas,numpy,seaborn&theme=dark"/><br/>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,mysql,regex,selenium&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,github,bash&theme=dark"/><br/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DeepChem-Deep_Learning-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LoRA_&_PEFT-Optimization-green?style=for-the-badge"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,scikitlearn,fastapi,postgres,docker&theme=dark"/>
 </div>
 
 ---
 
-### 🏆 Flagship Engineering Projects
+### 🏆 Research & Engineering Projects
 
-| Project | Domain | System Description | Core Tech |
+| Project | Domain | Engineering Highlights | Core Tech |
 |:---|:---|:---|:---|
-| **[CogniPath Analytics](https://github.com/Abu-Sameer-66/CogniPath-Analytics-Engine)** <br>| 🧠 EdTech AI | **Predictive Intelligence Engine** forecasting student burnout using behavioral telemetry & Gradient Boosting. | `OOP` `Pipelines` `XGBoost` |
-| **[PropVal-AI Engine](https://github.com/Abu-Sameer-66/PropVal-AI-Real-Estate-Engine)** | 🏠 PropTech | Enterprise-grade Real Estate Automated Valuation Model (AVM) designed for high-variance markets. | `Gradient Boosting` `Pandas` |
-| **[SpamGuard Security](https://github.com/Abu-Sameer-66/SpamGuard-AI-Threat-Detection)** | 🛡️ Cybersecurity | NLP-based Phishing & SMS Threat Detection System preventing digital fraud in real-time. | `NLP` `Naive Bayes` `TF-IDF` |
-| **[Retail BI Engine](https://github.com/Abu-Sameer-66/Retail-Sales-Performance-Analysis)** | 📊 Business Intel | Strategic Profit Analysis engine identifying operational leakages & margin inefficiencies. | `Seaborn` `Financial Modeling` |
+| **[DeepChem LLM Wrapper](https://github.com/Abu-Sameer-66)** <br>*(GSoC '26 Prototype)* | 🧬 Molecular AI | **Native DeepChem Integration.** Fine-tuned Mistral-7B to achieve **0.8034 ROC-AUC on BACE** (Scaffold Split) & **0.72 on Tox21**. Implemented NF4 Quantization & Gradient Checkpointing. | `DeepChem` `Transformers` `BitsAndBytes` |
+| **[CogniPath Analytics](https://github.com/Abu-Sameer-66/CogniPath-Analytics-Engine)** <br>| 🧠 EdTech AI | **OOP-based Predictive Engine** forecasting student burnout. Focused on clean architecture and reusable pipelines rather than just notebooks. | `OOP` `Pipelines` `XGBoost` |
+| **[PropVal-AI Engine](https://github.com/Abu-Sameer-66/PropVal-AI-Real-Estate-Engine)** | 🏠 PropTech | Enterprise-grade Automated Valuation Model (AVM). Handled high-variance market data with robust feature engineering. | `Gradient Boosting` `Pandas` |
+| **[SpamGuard Security](https://github.com/Abu-Sameer-66/SpamGuard-AI-Threat-Detection)** | 🛡️ Cybersecurity | NLP-based Phishing Detection System. Optimized specifically for real-time inference latency. | `NLP` `Naive Bayes` `TF-IDF` |
 
 ---
 
 ### 🎯 Open Source & Contribution Focus
 
-- **Architecture First:** Emphasis on clean `OOP` design and reusable modules.
-- **Review Ready:** Comfortable with PR reviews, issue triaging, and writing detailed documentation.
-- **Current Mission:** Contributing to open-source data science libraries to prepare for **GSoC**.
+- **Active Contributor:** Engaging with the **DeepChem** community to democratize AI for Drug Discovery.
+- **Problem Solver:** I document my errors (CUDA OOM, Gradient Explosions) so others don't have to suffer.
+- **Review Ready:** Comfortable with rigorous code reviews, CI/CD pipelines, and writing scientific documentation.
 
 ---
 
