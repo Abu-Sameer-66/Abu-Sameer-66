@@ -61,21 +61,32 @@
 
 <div align="center">
   
-  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,postgres,bash,linux,git,github&theme=dark" height="45" alt="Core Stack" />
+  <img src="https://skillicons.dev/icons?i=python,bash,mysql,postgres,flask&theme=dark" height="40" alt="Languages" />
   <br/><br/>
   
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,wandb,huggingface,opencv&theme=dark" height="45" alt="AI Stack" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn&theme=dark" height="40" alt="DL Stack" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=for-the-badge&logo=pytorchlightning&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/XGBoost-25C2A0?style=for-the-badge&logo=xgboost&logoColor=white" height="40"/>
   <br/><br/>
   
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,seaborn,plotly,matplotlib,jupyter&theme=dark" height="45" alt="Data Stack" />
-  <br/><br/>
-  
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,docker,kubernetes,vscode,selenium&theme=dark" height="45" alt="DevOps Stack" />
+  <img src="https://img.shields.io/badge/DeepChem-Scientific_AI-blue?style=for-the-badge" height="30"/>
+  <img src="https://img.shields.io/badge/RDKit-Cheminformatics-orange?style=for-the-badge" height="30"/>
+  <img src="https://img.shields.io/badge/PySCF-Quantum_Chem-blueviolet?style=for-the-badge" height="30"/>
+  <img src="https://img.shields.io/badge/OpenMM-Simulation-green?style=for-the-badge" height="30"/>
+  <img src="https://img.shields.io/badge/ASE-Atomic_Sim-lightgrey?style=for-the-badge" height="30"/>
+  <img src="https://img.shields.io/badge/SciPy-Mathematics-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" height="30"/>
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/DeepChem-Scientific_AI-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LoRA_&_PEFT-Optimization-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/BitsAndBytes-Quantization-red?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn&theme=dark" height="40" alt="Data Stack" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" height="40"/>
+  <br/><br/>
+  
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode,jupyter&theme=dark" height="40" alt="Tools" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-Pipeline-success?style=for-the-badge" height="40"/>
+  
 </div>
 
 ---
