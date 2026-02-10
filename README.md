@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&ColorList=896A15,6E8915,98351F&height=250&section=header&text=Sameer%20Nadeem&fontSize=70&fontColor=BBC1B9&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Data%20Scientist%20%7C%20Python%20%7C%20SQL%20Developer%20%7C%20Building%20Systems&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
+
 <div align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BBC1B9&center=true&vCenter=true&width=1000&lines=AI%2FML+Engineer+%7C+Data+Scientist+%7C+Python+Developer;EDA+Expert+%7C+SQL+Expert+%26+DBMS;Architecting+Cognitive+Analytics+Engines;Strict+Typing.+Atomic+Commits.+100%25+Coverage."
