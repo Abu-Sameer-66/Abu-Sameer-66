@@ -90,16 +90,19 @@
 </div>
 
 ---
+---
 
 ### 🏆 Featured Research & Projects
 
 | Project | Domain | Technical Impact | Stack |
 |:---|:---|:---|:---|
-| **[ChemLLM-Tox-OLMo](https://github.com/Abu-Sameer-66)** | 🧬 Molecular AI | **Multi-Task LLM Fine-tuning.** Adapted OLMo-7B for Tox21 toxicity prediction using instruction tuning. Managed 3x oversampling strategy. | `DeepChem` `OLMo` `PyTorch` |
-| **[CogniPath Analytics](https://github.com/Abu-Sameer-66/CogniPath-Analytics-Engine)** | 🧠 EdTech AI | **Predictive Intelligence Engine.** Forecasts student burnout using behavioral telemetry. Built with clean OOP architecture. | `XGBoost` `Pipelines` `OOP` |
-| **[PropVal-AI Engine](https://github.com/Abu-Sameer-66/PropVal-AI-Real-Estate-Engine)** | 🏠 PropTech | **Automated Valuation Model (AVM).** Enterprise-grade regression system handling high-variance market data. | `Gradient Boosting` `Pandas` |
-| **[SpamGuard Security](https://github.com/Abu-Sameer-66/SpamGuard-AI-Threat-Detection)** | 🛡️ Cybersecurity | **Real-time Threat Detection.** NLP-based phishing prevention system optimized for low-latency inference. | `NLP` `Naive Bayes` `TF-IDF` |
+| **[Mistral7B-BACE-Inhibitors](https://github.com/Abu-Sameer-66/Mistral7B-BACE-Generalization-Study)** | 🧬 Molecular AI | **Scaffold-Split Generalization.** Captured peak ROC-AUC of **0.8034** using LoRA ($r=8$) to prevent SMILES memorization and regularize the adapter. | `DeepChem` `Mistral-7B` `PEFT` |
+| **[Mistral7B-Tox21-Optimization](https://github.com/Abu-Sameer-66/Mistral7B-Tox21-Molecular-Optimization)** | 🧪 Cheminformatics | **Numerical Stability Engineering.** Resolved NaN loss crashes via **fp32 upcasting**; reached **0.72 ROC-AUC** with 8x dynamic oversampling. | `HuggingFace` `BitsAndBytes` `LoRA` |
+| **[ChemLLM-Tox-OLMo](https://github.com/Abu-Sameer-66/ChemLLM-Tox-OLMo)** | 🧠 Multi-Task AI | **Instruction Tuning.** Adapted OLMo-7B for simultaneous multi-task prediction across 12 toxicological benchmarks using instruction-tuning datasets. | `OLMo-7B` `DeepChem` `PyTorch` |
+| **[CogniPath Analytics](https://github.com/Abu-Sameer-66/CogniPath-Analytics-Engine)** | 🏫 EdTech AI | **Predictive Intelligence.** OOP-based analytics engine forecasting student burnout using behavioral telemetry and XGBoost pipelines. | `XGBoost` `OOP` `Scikit-Learn` |
+| **[PropVal-AI Engine](https://github.com/Abu-Sameer-66/PropVal-Property-Valuation--AI-Real-Estate-Engine)** | 🏠 PropTech | **Enterprise Valuation Model.** High-variance AVM (Automated Valuation Model) designed for real estate market volatility with robust feature engineering. | `Gradient Boosting` `Pandas` |
 
+---
 ---
 
 ### 📈 Engineering Metrics
